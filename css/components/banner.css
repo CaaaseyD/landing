@@ -1,0 +1,10 @@
+.banner{
+  background-image: url("/landing/images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+.container{
+  color: azure;
+  margin: 100px;
+}

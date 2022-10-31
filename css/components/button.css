@@ -1,0 +1,13 @@
+.button-apply{
+  display: inline-block;
+  text-decoration: none;
+  padding: 15px 20px;
+  border-radius: 2em;
+  color: rgb(244, 246, 234);
+  font-weight: bold;
+  background-image: linear-gradient(90deg, rgb(229, 133, 49), rgb(225, 228, 78));
+  cursor: pointer;
+}
+.button-apply:hover {
+  box-shadow: 0px 0px 20px -5px rgb(229, 133, 49);
+}

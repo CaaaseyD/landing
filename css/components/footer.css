@@ -1,0 +1,17 @@
+.footer{
+  background-color: rgb(49, 54, 50);
+  text-align: center;
+  padding: 50px;
+}
+.links{
+  display: block;
+  justify-content: center;
+}
+.links p{
+  color: azure;
+}
+.fab{
+  display: inline-block;
+  font-size: 30px;
+  color: rgb(38, 163, 67);
+}
